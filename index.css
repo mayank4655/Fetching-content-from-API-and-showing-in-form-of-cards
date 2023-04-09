@@ -1,0 +1,23 @@
+.card{
+    padding: 10px 9px;
+    margin: 0 auto;
+    border: 2px solid #470d39;
+    border-radius: 12px;
+    background-color: rgb(220, 190, 190);
+}
+
+#cards-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 14px 12px;
+}
+
+.one-container{
+   margin: 0 auto;
+    padding: 12px 12px;
+}
+
+body{
+    background-color: black;
+}
